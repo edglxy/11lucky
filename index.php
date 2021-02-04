@@ -11,7 +11,7 @@
         <meta name="description"
             content="Nice Admin Lite is powerful and clean admin dashboard template, inpired from Bootstrap Framework">
         <meta name="robots" content="noindex,nofollow"> -->
-        <title>11 Lucky Star Milling Corp</title>
+        <title>11 Lucky Star Milling Corp tst</title>
         <link rel="canonical" href="https://www.wrappixel.com/templates/niceadmin-lite/" />
         <!-- Favicon icon -->
         <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon.png">
@@ -21,7 +21,7 @@
         <link href="dist/css/style.min.css" rel="stylesheet">
         <link href="css/custom.css" rel="stylesheet">
 
-        
+
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
@@ -52,7 +52,7 @@
             <?php include_once("includes/inc-header.php"); ?>
             <!-- ============================================================== -->
             <!-- End Topbar header -->
-            <!-- ============================================================== -->        
+            <!-- ============================================================== -->
 
             <!-- ============================================================== -->
             <!-- Left Sidebar - style you can find in sidebar.scss  -->
@@ -61,11 +61,11 @@
             <!-- ============================================================== -->
             <!-- End Left Sidebar - style you can find in sidebar.scss  -->
             <!-- ============================================================== -->
-            
+
             <!-- ============================================================== -->
             <!-- Page wrapper  -->
             <!-- ============================================================== -->
-            
+
             <div class="page-wrapper mt-3 pt-5" id="main_content">
 
             </div>
