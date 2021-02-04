@@ -1,0 +1,2 @@
+#9290E2 = hilighted icon
+#A5A4BF = icons idle

@@ -1,0 +1,18 @@
+.dropdown-menu span {
+    white-space: normal;
+    cursor: pointer;
+}
+ul li a .time {
+    font-size: 10px;
+    /* font-style: italic; */
+    font-weight: bold;
+    position: absolute;
+    right: 35px;
+}
+ul li a .message {
+    display: block !important;
+    font-size: 11px;
+}
+ul li a .name {
+    font-size: 12px;
+}
